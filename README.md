@@ -1,3 +1,3 @@
 # Java BEDU
-📚 Retos en Java a nivel Principiante
+📚 Repositorio de retos en Java
 
